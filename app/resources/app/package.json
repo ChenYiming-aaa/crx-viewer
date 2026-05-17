@@ -1,0 +1,22 @@
+{
+  "name": "crx-viewer",
+  "version": "2.0.0",
+  "description": "Chrome/Edge 扩展源代码分析工具",
+  "author": "crx-viewer",
+  "main": "electron/main.mjs",
+  "scripts": {
+    "start": "node electron/main.mjs",
+    "dev": "concurrently \"cd server && node index.js\" \"cd client && npx vite --host\"",
+    "build:client": "cd client && npx vite build",
+    "package": "npm run build:client && npx electron-builder --win --x64"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.0",
+    "electron": "^33.0.0",
+    "electron-builder": "^25.0.0",
+    "wait-on": "^8.0.0"
+  },
+  "dependencies": {
+    "crx-viewer-server": "file:server"
+  }
+}

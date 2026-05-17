@@ -1,0 +1,1 @@
+{"name":"crx-viewer-server","private":true,"type":"module","dependencies":{"adm-zip":"^0.5.16","axios":"^1.15.0","cors":"^2.8.5","express":"^5.1.0","http-proxy-agent":"^9.0.0","https-proxy-agent":"^9.0.0","uuid":"^11.1.0"}}

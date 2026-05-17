@@ -1,0 +1,30 @@
+node_modules/
+store/
+*.log
+.env*
+.DS_Store
+Thumbs.db
+
+# Electron runtime (not source)
+app/*.exe
+app/*.dll
+app/*.pak
+app/*.dat
+app/*.bin
+app/*.html
+app/LICENSE*
+app/version
+app/vk_swiftshader*
+app/vulkan-1.dll
+app/locales/
+app/resources.pak
+app/snapshot_blob.bin
+app/v8_context_snapshot.bin
+
+# Build output
+dist/win-unpacked/
+dist/builder-debug.yml
+
+# Bat files
+*.bat
+default_app.asar
