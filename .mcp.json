@@ -7,7 +7,7 @@
         "@fabriciofs/mcp-postgres"
       ],
       "env": {
-        "SQL_CONNECTION_URL": "postgresql://crx_app:crx_viewer_dev_2026@localhost:5432/crx_viewer",
+        "SQL_CONNECTION_URL": "postgresql://crx_app:crx_viewer_dev_2026@localhost:5433/crx_viewer",
         "READONLY": "false"
       }
     }
