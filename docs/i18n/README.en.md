@@ -1,9 +1,5 @@
 <h1 align="center">CRX Viewer</h1>
 
-<p align="center">
-  <a href="../../README.md">中文</a> | <a href="README.en.md">English</a>
-</p>
-
 > Chrome/Edge extension security analysis tool with download, inspection, scanning, and AI reporting
 
 <p align="center">
@@ -13,6 +9,12 @@
   <img src="https://img.shields.io/github/last-commit/ChenYiming-aaa/crx-viewer" alt="last commit" />
   <img src="https://img.shields.io/github/languages/count/ChenYiming-aaa/crx-viewer" alt="languages" />
 </p>
+
+<p align="center">
+  <a href="../../README.md">中文</a> · <b>English</b>
+</p>
+
+---
 
 ## Features
 
