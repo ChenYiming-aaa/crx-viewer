@@ -1,16 +1,18 @@
-# CRX Viewer
+<h1 align="center">CRX Viewer</h1>
 
-<p align="right">
+<p align="center">
   <a href="README.md">中文</a> | <a href="docs/i18n/README.en.md">English</a>
 </p>
 
 > Chrome/Edge 浏览器扩展安全分析工具 — 在线下载、本地扫描、安全审计、AI 摘要
 
-![Electron](https://img.shields.io/badge/Electron-33-47848F?logo=electron&logoColor=white)
-![Node](https://img.shields.io/badge/Node-%3E%3D18-339933?logo=node.js&logoColor=white)
-![license](https://img.shields.io/badge/license-MIT-blue)
-![last commit](https://img.shields.io/github/last-commit/ChenYiming-aaa/crx-viewer)
-![languages](https://img.shields.io/github/languages/count/ChenYiming-aaa/crx-viewer)
+<p align="center">
+  <img src="https://img.shields.io/badge/Electron-33-47848F?logo=electron&logoColor=white" alt="Electron" />
+  <img src="https://img.shields.io/badge/Node-%3E%3D18-339933?logo=node.js&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/license-MIT-blue" alt="license" />
+  <img src="https://img.shields.io/github/last-commit/ChenYiming-aaa/crx-viewer" alt="last commit" />
+  <img src="https://img.shields.io/github/languages/count/ChenYiming-aaa/crx-viewer" alt="languages" />
+</p>
 
 ## 功能特性
 
