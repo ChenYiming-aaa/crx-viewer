@@ -1,9 +1,5 @@
 <h1 align="center">CRX Viewer</h1>
 
-<p align="center">
-  <a href="README.md">中文</a> | <a href="docs/i18n/README.en.md">English</a>
-</p>
-
 > Chrome/Edge 浏览器扩展安全分析工具 — 在线下载、本地扫描、安全审计、AI 摘要
 
 <p align="center">
@@ -13,6 +9,12 @@
   <img src="https://img.shields.io/github/last-commit/ChenYiming-aaa/crx-viewer" alt="last commit" />
   <img src="https://img.shields.io/github/languages/count/ChenYiming-aaa/crx-viewer" alt="languages" />
 </p>
+
+<p align="center">
+  <b>中文</b> · <a href="docs/i18n/README.en.md">English</a>
+</p>
+
+---
 
 ## 功能特性
 
